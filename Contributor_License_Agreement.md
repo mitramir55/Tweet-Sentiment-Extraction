@@ -5,6 +5,19 @@ that a record of the contribution (including all personal information I submit w
 is maintained indefinitely and may be redistributed consistent with this project, compliance with the open source license(s) involved, 
 and maintenance of authorship attribution.
 
+## Issues and bug reports
+
+First, do a quick search to see if the issue has already been reported. If so, it's often better to just
+leave a comment on an existing issue, rather than creating a new one. Old issues
+also often include helpful tips and solutions to common problems.
+
+If you're looking for help with your code, consider posting a question on
+[Stack Overflow](http://stackoverflow.com/). Please
+understand that I might not be able to provide individual support via email. I
+also believe that help is much more valuable if it's **shared publicly**,
+so that more people can benefit from it.
+
+
 In order to clarify the intellectual property license granted with Contributions from any person or entity, project owner (Mitra) 
 must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the 
 license terms below. This license is for your protection as a Contributor as well as the protection of project owner; 
